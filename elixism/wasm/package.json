@@ -1,0 +1,10 @@
+{
+  "name": "playground-elixism-wasm",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Playground (Elixir) compiled to WebAssembly by Elixism, served over HTTP from Node.js",
+  "scripts": {
+    "build": "./build.sh",
+    "serve": "node server.js"
+  }
+}
